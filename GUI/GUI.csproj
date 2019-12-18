@@ -262,6 +262,7 @@
     <Content Include="js\popper.min.js" />
     <Content Include="js\range.js" />
     <Content Include="js\scrollax.min.js" />
+    <Content Include="TrangChiTiet.aspx" />
     <Content Include="Trangchu.aspx" />
     <Content Include="Web.config" />
   </ItemGroup>
@@ -274,6 +275,13 @@
     <Compile Include="PublicPage.Master.designer.cs">
       <DependentUpon>PublicPage.Master</DependentUpon>
     </Compile>
+    <Compile Include="TrangChiTiet.aspx.cs">
+      <DependentUpon>TrangChiTiet.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="TrangChiTiet.aspx.designer.cs">
+      <DependentUpon>TrangChiTiet.aspx</DependentUpon>
+    </Compile>
     <Compile Include="Trangchu.aspx.cs">
       <DependentUpon>Trangchu.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
@@ -281,6 +289,16 @@
     <Compile Include="Trangchu.aspx.designer.cs">
       <DependentUpon>Trangchu.aspx</DependentUpon>
     </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\BUS\BUS.csproj">
+      <Project>{d63b9ffb-6572-4303-8380-9fe3f1884c88}</Project>
+      <Name>BUS</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\DTO\DTO.csproj">
+      <Project>{19f24d57-4039-45d6-90f1-d16d69156bbb}</Project>
+      <Name>DTO</Name>
+    </ProjectReference>
   </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>

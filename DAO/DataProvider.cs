@@ -11,11 +11,11 @@ namespace DAO
     public class DataProvider
     {
         private static SqlDataAdapter adapter = new SqlDataAdapter();
-        private static SqlConnection conn = new SqlConnection("Data Source=DESKTOP-F9169B5\\SQLEXPRESS;Initial Catalog=WebBanHang;Integrated Security=True");
+        private static SqlConnection conn = new SqlConnection(@"Data Source=DESKTOP-8GNIKAI\SQLEXPRESS;Initial Catalog=WebBanHang;Integrated Security=True");
 
         public DataProvider()
         {
-            
+
         }
 
         private static SqlConnection OpenConnection()
@@ -30,7 +30,7 @@ namespace DAO
         public static DataTable ExecuteSelectQuery(string query, SqlParameter[] param)
         {
             SqlCommand cmd = new SqlCommand();
-            DataTable dtbKetQua= new DataTable();
+            DataTable dtbKetQua = new DataTable();
             try
             {
                 cmd.Connection = OpenConnection();

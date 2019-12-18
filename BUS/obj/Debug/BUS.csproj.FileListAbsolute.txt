@@ -1,0 +1,9 @@
+C:\wamp64\www\DoAnASP\BUS\bin\Debug\BUS.dll
+C:\wamp64\www\DoAnASP\BUS\bin\Debug\BUS.pdb
+C:\wamp64\www\DoAnASP\BUS\bin\Debug\DAO.dll
+C:\wamp64\www\DoAnASP\BUS\bin\Debug\DTO.dll
+C:\wamp64\www\DoAnASP\BUS\bin\Debug\DAO.pdb
+C:\wamp64\www\DoAnASP\BUS\bin\Debug\DTO.pdb
+C:\wamp64\www\DoAnASP\BUS\obj\Debug\BUS.csprojResolveAssemblyReference.cache
+C:\wamp64\www\DoAnASP\BUS\obj\Debug\BUS.dll
+C:\wamp64\www\DoAnASP\BUS\obj\Debug\BUS.pdb

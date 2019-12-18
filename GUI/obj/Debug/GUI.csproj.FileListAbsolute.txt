@@ -4,3 +4,15 @@ D:\LTASP.NET\DoAnASP\GUI\bin\GUI.pdb
 D:\LTASP.NET\DoAnASP\GUI\obj\Debug\GUI.csprojResolveAssemblyReference.cache
 D:\LTASP.NET\DoAnASP\GUI\obj\Debug\GUI.dll
 D:\LTASP.NET\DoAnASP\GUI\obj\Debug\GUI.pdb
+C:\wamp64\www\DoAnASP\GUI\bin\GUI.dll.config
+C:\wamp64\www\DoAnASP\GUI\bin\GUI.dll
+C:\wamp64\www\DoAnASP\GUI\bin\GUI.pdb
+C:\wamp64\www\DoAnASP\GUI\obj\Debug\GUI.csprojResolveAssemblyReference.cache
+C:\wamp64\www\DoAnASP\GUI\obj\Debug\GUI.dll
+C:\wamp64\www\DoAnASP\GUI\obj\Debug\GUI.pdb
+C:\wamp64\www\DoAnASP\GUI\bin\BUS.dll
+C:\wamp64\www\DoAnASP\GUI\bin\DTO.dll
+C:\wamp64\www\DoAnASP\GUI\bin\DAO.dll
+C:\wamp64\www\DoAnASP\GUI\bin\BUS.pdb
+C:\wamp64\www\DoAnASP\GUI\bin\DTO.pdb
+C:\wamp64\www\DoAnASP\GUI\bin\DAO.pdb

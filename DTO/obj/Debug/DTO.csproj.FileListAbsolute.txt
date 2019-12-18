@@ -1,0 +1,5 @@
+C:\wamp64\www\DoAnASP\DTO\bin\Debug\DTO.dll
+C:\wamp64\www\DoAnASP\DTO\bin\Debug\DTO.pdb
+C:\wamp64\www\DoAnASP\DTO\obj\Debug\DTO.csprojResolveAssemblyReference.cache
+C:\wamp64\www\DoAnASP\DTO\obj\Debug\DTO.dll
+C:\wamp64\www\DoAnASP\DTO\obj\Debug\DTO.pdb

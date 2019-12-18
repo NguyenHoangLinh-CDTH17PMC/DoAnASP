@@ -1,0 +1,6 @@
+D:\LTASP.NET\DoAnASP\GUI\bin\GUI.dll.config
+D:\LTASP.NET\DoAnASP\GUI\bin\GUI.dll
+D:\LTASP.NET\DoAnASP\GUI\bin\GUI.pdb
+D:\LTASP.NET\DoAnASP\GUI\obj\Debug\GUI.csprojResolveAssemblyReference.cache
+D:\LTASP.NET\DoAnASP\GUI\obj\Debug\GUI.dll
+D:\LTASP.NET\DoAnASP\GUI\obj\Debug\GUI.pdb
